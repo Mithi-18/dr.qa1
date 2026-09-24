@@ -4,4 +4,4 @@ function celsiusToFahrenheit(celsius) {
 
 console.log(celsiusToFahrenheit(0)); 
 console.log(celsiusToFahrenheit(100));  
-console.log(celsiusToFahrenheit(-40));   
+console.log(celsiusToFahrenheit(-40));
